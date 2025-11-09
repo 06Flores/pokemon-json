@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "nombre": "Bulbasaur",
+    "tipo": "Planta/Veneno",
+    "color": "#78C850"
+  },
+  {
+    "id": 2,
+    "nombre": "Ivysaur",
+    "tipo": "Planta/Veneno",
+    "color": "#78C850"
+  },
+  {
+    "id": 3,
+    "nombre": "Venusaur",
+    "tipo": "Planta/Veneno",
+    "color": "#78C850"
+  },
+  {
+    "id": 4,
+    "nombre": "Charmander",
+    "tipo": "Fuego",
+    "color": "#F08030"
+  },
+  {
+    "id": 5,
+    "nombre": "Charmeleon",
+    "tipo": "Fuego",
+    "color": "#F08030"
+  },
+  {
+    "id": 6,
+    "nombre": "Charizard",
+    "tipo": "Fuego/Volador",
+    "color": "#F08030"
+  },
+  {
+    "id": 7,
+    "nombre": "Squirtle",
+    "tipo": "Agua",
+    "color": "#6890F0"
+  },
+  {
+    "id": 8,
+    "nombre": "Wartortle",
+    "tipo": "Agua",
+    "color": "#6890F0"
+  },
+  {
+    "id": 9,
+    "nombre": "Blastoise",
+    "tipo": "Agua",
+    "color": "#6890F0"
+  },
+  {
+    "id": 10,
+    "nombre": "Caterpie",
+    "tipo": "Bicho",
+    "color": "#A8B820"
+  },
+  {
+    "id": 11,
+    "nombre": "Metapod",
+    "tipo": "Bicho",
+    "color": "#A8B820"
+  },
+  {
+    "id": 12,
+    "nombre": "Butterfree",
+    "tipo": "Bicho/Volador",
+    "color": "#A8B820"
+  },
+  {
+    "id": 13,
+    "nombre": "Weedle",
+    "tipo": "Bicho/Veneno",
+    "color": "#A8B820"
+  },
+  {
+    "id": 14,
+    "nombre": "Kakuna",
+    "tipo": "Bicho/Veneno",
+    "color": "#A8B820"
+  },
+  {
+    "id": 15,
+    "nombre": "Beedrill",
+    "tipo": "Bicho/Veneno",
+    "color": "#A8B820"
+  },
+  {
+    "id": 16,
+    "nombre": "Pidgey",
+    "tipo": "Normal/Volador",
+    "color": "#A890F0"
+  },
+  {
+    "id": 17,
+    "nombre": "Pidgeotto",
+    "tipo": "Normal/Volador",
+    "color": "#A890F0"
+  },
+  {
+    "id": 18,
+    "nombre": "Pidgeot",
+    "tipo": "Normal/Volador",
+    "color": "#A890F0"
+  },
+  {
+    "id": 19,
+    "nombre": "Rattata",
+    "tipo": "Normal",
+    "color": "#A8A878"
+  },
+  {
+    "id": 20,
+    "nombre": "Raticate",
+    "tipo": "Normal",
+    "color": "#A8A878"
+  },
+  {
+    "id": 21,
+    "nombre": "Spearow",
+    "tipo": "Normal/Volador",
+    "color": "#A890F0"
+  },
+  {
+    "id": 22,
+    "nombre": "Fearow",
+    "tipo": "Normal/Volador",
+    "color": "#A890F0"
+  },
+  {
+    "id": 23,
+    "nombre": "Ekans",
+    "tipo": "Veneno",
+    "color": "#A040A0"
+  },
+  {
+    "id": 24,
+    "nombre": "Arbok",
+    "tipo": "Veneno",
+    "color": "#A040A0"
+  },
+  {
+    "id": 25,
+    "nombre": "Pikachu",
+    "tipo": "Eléctrico",
+    "color": "#F8D030"
+  },
+  {
+    "id": 26,
+    "nombre": "Raichu",
+    "tipo": "Eléctrico",
+    "color": "#F8D030"
+  },
+  {
+    "id": 27,
+    "nombre": "Sandshrew",
+    "tipo": "Tierra",
+    "color": "#E0C068"
+  },
+  {
+    "id": 28,
+    "nombre": "Sandslash",
+    "tipo": "Tierra",
+    "color": "#E0C068"
+  },
+  {
+    "id": 29,
+    "nombre": "Nidoran♀",
+    "tipo": "Veneno",
+    "color": "#A040A0"
+  },
+  {
+    "id": 30,
+    "nombre": "Nidorina",
+    "tipo": "Veneno",
+    "color": "#A040A0"
+  },
+  {
+    "id": 31,
+    "nombre": "Nidoqueen",
+    "tipo": "Veneno/Tierra",
+    "color": "#A040A0"
+  },
+  {
+    "id": 32,
+    "nombre": "Nidoran♂",
+    "tipo": "Veneno",
+    "color": "#A040A0"
+  },
+  {
+    "id": 33,
+    "nombre": "Nidorino",
+    "tipo": "Veneno",
+    "color": "#A040A0"
+  },
+  {
+    "id": 34,
+    "nombre": "Nidoking",
+    "tipo": "Veneno/Tierra",
+    "color": "#A040A0"
+  },
+  {
+    "id": 35,
+    "nombre": "Clefairy",
+    "tipo": "Hada",
+    "color": "#EE99AC"
+  },
+  {
+    "id": 36,
+    "nombre": "Clefable",
+    "tipo": "Hada",
+    "color": "#EE99AC"
+  },
+  {
+    "id": 37,
+    "nombre": "Vulpix",
+    "tipo": "Fuego",
+    "color": "#F08030"
+  },
+  {
+    "id": 38,
+    "nombre": "Ninetales",
+    "tipo": "Fuego",
+    "color": "#F08030"
+  },
+  {
+    "id": 39,
+    "nombre": "Jigglypuff",
+    "tipo": "Normal/Hada",
+    "color": "#EE99AC"
+  },
+  {
+    "id": 40,
+    "nombre": "Wigglytuff",
+    "tipo": "Normal/Hada",
+    "color": "#EE99AC"
+  },
+  {
+    "id": 41,
+    "nombre": "Zubat",
+    "tipo": "Veneno/Volador",
+    "color": "#A040A0"
+  },
+  {
+    "id": 42,
+    "nombre": "Golbat",
+    "tipo": "Veneno/Volador",
+    "color": "#A040A0"
+  },
+  {
+    "id": 43,
+    "nombre": "Oddish",
+    "tipo": "Planta/Veneno",
+    "color": "#78C850"
+  },
+  {
+    "id": 44,
+    "nombre": "Gloom",
+    "tipo": "Planta/Veneno",
+    "color": "#78C850"
+  },
+  {
+    "id": 45,
+    "nombre": "Vileplume",
+    "tipo": "Planta/Veneno",
+    "color": "#78C850"
+  },
+  {
+    "id": 46,
+    "nombre": "Paras",
+    "tipo": "Bicho/Planta",
+    "color": "#A8B820"
+  },
+  {
+    "id": 47,
+    "nombre": "Parasect",
+    "tipo": "Bicho/Planta",
+    "color": "#A8B820"
+  },
+  {
+    "id": 48,
+    "nombre": "Venonat",
+    "tipo": "Bicho/Veneno",
+    "color": "#A8B820"
+  },
+  {
+    "id": 49,
+    "nombre": "Venomoth",
+    "tipo": "Bicho/Veneno",
+    "color": "#A8B820"
+  },
+  {
+    "id": 50,
+    "nombre": "Diglett",
+    "tipo": "Tierra",
+    "color": "#E0C068"
+  }
+]
